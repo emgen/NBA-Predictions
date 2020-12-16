@@ -19,8 +19,8 @@ https://github.com/ixarchakos/nba-games (2002 game data).
 
 ## NBA PLAYER OUTLIER
 
-Contains 3 notebooks for preforming outlier detection on the players using
-Isolated forested, Local outlier factor method and robust convariance estimation.
+Contains 3 notebooks for preforming outlier detection on the players using different methods(
+Isolated forested, Local outlier factor method and robust convariance estimation.)
 Each notebook is set up as follows:
 - Introduction
 - Data Aquisition
