@@ -1,5 +1,4 @@
 # NBA-Predictions
-NBA game outcome predictions
 
 Game Prediction Code:
 
