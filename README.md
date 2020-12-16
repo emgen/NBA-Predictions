@@ -12,7 +12,7 @@ Each notebook is set up as follows:
 
 ### Data:
 
-This file contains the data we used for the NBA games outcome prediction; which was team season data and game data.
+This file contains the data we used for the NBA games outcome predictions; which was team season data and game data.
 The game data was extracted from,
 https://www.kaggle.com/nathanlauga/nba-games and
 https://github.com/ixarchakos/nba-games (2002 game data). 
