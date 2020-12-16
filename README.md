@@ -1,7 +1,7 @@
 # NBA-Predictions
 NBA game outcome predictions
 
-Project Code:
+Game Prediction Code:
 
 Contains the notebooks for NBA game outcome predictions.
 There are 4 notebooks one for each season(2002-2005).
